@@ -4,6 +4,7 @@
 - [PHP](./CodeConvention/php/README.md)
 - [Golang](./CodeConvention/golang/README.md)
 - [Python](./CodeConvention/python/README.md)
+- [Android](./CodeConvention/android/README.md)
 
 
 ## Workflow standard
