@@ -5,6 +5,7 @@
 - [Golang](./CodeConvention/golang/README.md)
 - [Python](./CodeConvention/python/README.md)
 - [Android](./CodeConvention/android/README.md)
+- [React](./CodeConvention/react/README.md)
 
 
 ## Workflow standard
